@@ -12,3 +12,14 @@ gcc wav.c -o wav -lm && ./wav
 - buffers
 - structs
 - file handling
+
+### guess.c
+
+```bash
+gcc guess.c -o guess && ./guess
+```
+
+Simple number guessing game with custom RANGE
+
+- simple logic handling
+- user input
